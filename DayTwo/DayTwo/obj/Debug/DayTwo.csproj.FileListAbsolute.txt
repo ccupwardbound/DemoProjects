@@ -1,0 +1,7 @@
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DayTwo\DayTwo\bin\Debug\DayTwo.exe.config
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DayTwo\DayTwo\bin\Debug\DayTwo.exe
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DayTwo\DayTwo\bin\Debug\DayTwo.pdb
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DayTwo\DayTwo\obj\Debug\DayTwo.csprojAssemblyReference.cache
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DayTwo\DayTwo\obj\Debug\DayTwo.csproj.CoreCompileInputs.cache
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DayTwo\DayTwo\obj\Debug\DayTwo.exe
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DayTwo\DayTwo\obj\Debug\DayTwo.pdb

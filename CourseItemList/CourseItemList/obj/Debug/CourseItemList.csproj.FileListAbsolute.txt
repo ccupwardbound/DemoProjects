@@ -1,0 +1,11 @@
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\bin\Debug\CourseItemList.exe.config
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\bin\Debug\CourseItemList.exe
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\bin\Debug\CourseItemList.pdb
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\obj\Debug\CourseItemList.csprojAssemblyReference.cache
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\obj\Debug\CourseItemList.csproj.CoreCompileInputs.cache
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\obj\Debug\CourseItemList.csproj.CopyComplete
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\obj\Debug\CourseItemList.exe
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\obj\Debug\CourseItemList.pdb
+C:\Users\Upward.EQ7426-WAH-216\source\repos\CourseItemList\CourseItemList\bin\Debug\ItemInformation.json

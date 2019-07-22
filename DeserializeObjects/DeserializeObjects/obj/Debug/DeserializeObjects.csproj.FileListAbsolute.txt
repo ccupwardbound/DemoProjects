@@ -1,0 +1,10 @@
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\bin\Debug\DeserializeObjects.exe.config
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\bin\Debug\DeserializeObjects.exe
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\bin\Debug\DeserializeObjects.pdb
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\obj\Debug\DeserializeObjects.csprojAssemblyReference.cache
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\obj\Debug\DeserializeObjects.csproj.CoreCompileInputs.cache
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\obj\Debug\DeserializeObjects.csproj.CopyComplete
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\obj\Debug\DeserializeObjects.exe
+C:\Users\Upward.EQ7426-WAH-216\source\repos\DeserializeObjects\DeserializeObjects\obj\Debug\DeserializeObjects.pdb

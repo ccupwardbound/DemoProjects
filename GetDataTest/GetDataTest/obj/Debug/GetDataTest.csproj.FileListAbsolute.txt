@@ -1,0 +1,20 @@
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\bin\Debug\GetDataTest.exe.config
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\bin\Debug\GetDataTest.exe
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\bin\Debug\GetDataTest.pdb
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\obj\Debug\GetDataTest.csprojAssemblyReference.cache
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\obj\Debug\GetDataTest.csproj.CoreCompileInputs.cache
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\obj\Debug\GetDataTest.csproj.CopyComplete
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\obj\Debug\GetDataTest.exe
+C:\Users\Upward.EQ7426-WAH-216\Desktop\GetDataTest\GetDataTest\obj\Debug\GetDataTest.pdb
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\bin\Debug\GetDataTest.exe.config
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\bin\Debug\GetDataTest.exe
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\bin\Debug\GetDataTest.pdb
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\obj\Debug\GetDataTest.csprojAssemblyReference.cache
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\obj\Debug\GetDataTest.csproj.CoreCompileInputs.cache
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\obj\Debug\GetDataTest.csproj.CopyComplete
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\obj\Debug\GetDataTest.exe
+C:\Users\Upward.EQ7426-WAH-216\Desktop\Upward Bound Class\GetDataTest\GetDataTest\obj\Debug\GetDataTest.pdb
